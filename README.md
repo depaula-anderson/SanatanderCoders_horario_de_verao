@@ -1,4 +1,4 @@
-# SanatanderCoders_horario_de_verao
+# SantanderCoders_horario_de_verao
 # Projeto Santander Coders - Técnicas de programação
 
 ## O horário de verão
