@@ -1,5 +1,7 @@
 # SanatanderCoders_horario_de_verao
-Projeto Santander Coders - Técnicas de programação
+# Projeto Santander Coders - Técnicas de programação
+
+## O horário de verão
 
 O horário de verão consiste no adiantamento do relógio em uma hora para
 o aproveitamento máximo da luz natural, reduzindo o consumo de energia
